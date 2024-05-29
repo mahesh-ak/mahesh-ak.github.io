@@ -21,7 +21,7 @@ As part of my PhD thesis, I worked on Axial Transformers and Graph-Attention-bas
 - GPA: 3.84/4.00 (9.6/10.0)
 - Advisor: Prof. Arnab Bhattacharya
 
-## Indian Institute of Technology Kanpur, BTech in Computer Science, Physics (Second Major)
+## Indian Institute of Technology Kanpur, BT in Computer Science, Physics (Second Major)
 
 - July 2014 to May 2019
 - GPA: 3.72/4.00 (9.3/10.0)
@@ -63,6 +63,15 @@ As part of my PhD thesis, I worked on Axial Transformers and Graph-Attention-bas
 - Evolutionary Biology-Inspired Language Models in Historical Linguistics, University of Tübingen (Online), Apr. 2024
 - Tutorial on LLMs: Finetuning and Prompting, with Arnab Bhattacharya and Shubham K. Nigam, NIT Warangal (Online), Mar. 2024
 - Tutorial on Legal Named Entity Recognition, with Shubham K. Nigam, NIT Trichy (Online), Dec. 2022
+# Teaching Assitance
+
+- (CS 689) *Computational Linguistics for Indian Languages*, Instructor: Prof. Arnab Bhattacharya (Spring 2024, Fall 2022)
+- (CS 63) *Theory of Computation*, Instructor: Dr. Raghunath Tewari (Fall 2023, 2022)
+- (CS 315) *Principles of Database Systems*, Instructor: Prof. Arnab Bhattacharya (Spring 2023, Spring 2021)
+- (CS 657) *Information Retrieval*, Instructor: Prof. Arnab Bhattacharya (Spring 2022)
+- (CS 771) *Introduction to Machine Learning*, Instructor: Dr. Nisheeth Srivastava (Fall 2021)
+- (CS 685) *Data Mining*, Instructor: Prof. Arnab Bhattacharya (Fall 2020)
+- (ESC 101) *Fundamentals of Computing*, Instructor: Dr. Nisheeth Srivastava (Spring 2020), Dr. Piyush Rai (Fall 2019)
 # Technologies
 
 - Languages: Python, C/C++, HTML, Shell Scripting etc.

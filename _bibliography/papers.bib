@@ -1,113 +1,69 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{akavarapu2024likelihood,
+  title={A Likelihood Ratio Test of Genetic Relationship among Languages},
+  author={Akavarapu, V.S.D.S.Mahesh and Bhattacharya, Arnab},
+  journal={To Appear at NAACL 2024 (Main)},
+  pdf = {https://arxiv.org/pdf/2404.00284},
+  year={2024},
+  selected={true},
+  abbr={NAACL},
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{akavarapu-bhattacharya-2024-automated,
+    title = "{Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer}",
+    author = "Akavarapu, V.S.D.S.Mahesh  and
+      Bhattacharya, Arnab",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2024.eacl-long.58",
+    pdf = "https://aclanthology.org/2024.eacl-long.58.pdf",
+    video = "https://aclanthology.org/2024.eacl-long.58.mp4",
+    abbr = "EACL",
+    pages = "965--975",
+    abstract = "Identification of cognates across related languages is one of the primary problems in historical linguistics. Automated cognate identification is helpful for several downstream tasks including identifying sound correspondences, proto-language reconstruction, phylogenetic classification, etc. Previous state-of-the-art methods are mostly based on distributions of phonemes computed across multilingual wordlists and make little use of the cognacy labels that define links among cognate clusters. In this paper, we present a transformer-based architecture inspired by computational biology for the task of automated cognate detection. Beyond a certain amount of supervision, this method performs better than the existing methods, and shows steady improvement with further increase in supervision proving the efficacy of utilizing the labeled information. We also demonstrate that accepting multiple sequence alignments as input and having an end-to-end architecture with link prediction head saves much computation time while simultaneously yielding superior performance.",
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{akavarapu-bhattacharya-2023-cognate,
+    title = "Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction",
+    author = "Akavarapu, V.S.D.S.Mahesh  and
+      Bhattacharya, Arnab",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2023.emnlp-main.423",
+    pdf = "https://aclanthology.org/2023.emnlp-main.423.pdf",
+    video = "https://aclanthology.org/2023.emnlp-main.423.mp4",
+    abbr = "EMNLP",
+    doi = "10.18653/v1/2023.emnlp-main.423",
+    pages = "6852--6862",
+    abstract = "Phonological reconstruction is one of the central problems in historical linguistics where a proto-word of an ancestral language is determined from the observed cognate words of daughter languages. Computational approaches to historical linguistics attempt to automate the task by learning models on available linguistic data. Several ideas and techniques drawn from computational biology have been successfully applied in this area of computational historical linguistics. Following these lines, we adapt MSA Transformer, a protein language model, to the problem of automated phonological reconstruction. MSA Transformer trains on multiple sequence alignments as input and is, thus, apt for application on aligned cognate words. We, hence, name our model as Cognate Transformer. We also apply the model on another associated task, namely, cognate reflex prediction where a reflex word in a daughter language is predicted based on cognate words from other daughter languages. We show that our model outperforms the existing models on both the tasks, especially when it is pre-trained on masked word prediction task.",
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  selected={true}
+
+@inproceedings{mahesh-bhattacharya-2023-creation,
+    title = "Creation of a Digital Rig {V}edic Index (Anukramani) for Computational Linguistic Tasks",
+    author = "Akavarapu, V.S.D.S.Mahesh  and
+      Bhattacharya, Arnab",
+    editor = "Kulkarni, Amba  and
+      Hellwig, Oliver",
+    booktitle = "Proceedings of the Computational {S}anskrit {\&} Digital Humanities: Selected papers presented at the 18th World {S}anskrit Conference",
+    month = jan,
+    year = "2023",
+    address = "Canberra, Australia (Online mode)",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2023.wsc-csdh.6",
+    pdf =  "https://aclanthology.org/2023.wsc-csdh.6.pdf",
+    pages = "89--96",
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}

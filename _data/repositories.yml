@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mahesh-ak
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mahesh-ak/PhyloVal
+  - mahesh-ak/CogDetect
+  - mahesh-ak/CognateTransformer
+  - mahesh-ak/WSC2023
+  - mahesh-ak/Hindi-dependency-parser

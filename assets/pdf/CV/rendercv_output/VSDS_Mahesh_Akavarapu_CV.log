@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  29 MAY 2024 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  29 MAY 2024 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -15,8 +15,8 @@ inytex-release/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 
 (/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+inytex-release/TinyTeX/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
 \c@section=\count189
@@ -722,7 +722,7 @@ ceSansPro-TLF.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 170.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 170.
+(Font)              scaled to size 12.0pt on input line 170.
  (./VSDS_Mahesh_Akavarapu_CV.aux)
 \openout1 = `VSDS_Mahesh_Akavarapu_CV.aux'.
 
@@ -775,10 +775,10 @@ LaTeX Font Info:    ... okay on input line 170.
 * \headsep=25.0pt
 * \topskip=0.0pt
 * \footskip=28.45274pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=4.26773pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -796,7 +796,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 179.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 179.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
 nput line 179.
 
@@ -813,25 +813,25 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
 (/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
 inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 )
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
-vailable
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
+available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 185.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 194.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 194.
+(Font)              scaled to size 17.28pt on input line 194.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 194.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 194.
+(Font)              scaled to size 17.28pt on input line 194.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 218.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 218.
+(Font)              scaled to size 12.0pt on input line 218.
 
-Overfull \hbox (1.04901pt too wide) in paragraph at lines 218--218
-[]\T1/SourceSansPro-TLF/bold/n/10 PhD 
+Overfull \hbox (4.67302pt too wide) in paragraph at lines 218--218
+[]\T1/SourceSansPro-TLF/bold/n/12 PhD 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
@@ -846,34 +846,29 @@ urceSansPro-TLF.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 221.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 221.
+(Font)              scaled to size 12.0pt on input line 221.
 
-Overfull \hbox (9.16898pt too wide) in paragraph at lines 230--230
-[]\T1/SourceSansPro-TLF/bold/n/10 BTech 
+Overfull \hbox (11.1403pt too wide) in paragraph at lines 231--232
+[]\T1/SourceSansPro-TLF/bold/n/12 Indian In-sti-tute of Tech-nol-ogy Kan-pur\T1
+/SourceSansPro-TLF/regular/n/12 , Com-puter Sci-ence, Physics
  []
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/it' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/it' on input line 309.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/it' will be
-(Font)              scaled to size 10.0pt on input line 309.
-
-Overfull \hbox (1.42615pt too wide) in paragraph at lines 334--335
-[]\T1/SourceSansPro-TLF/bold/n/10 Cognate Trans-former for Au-to-mated Phono-lo
-g-i-cal Re-con-struc-tion and Cog-nate Re-
- []
-
+(Font)              scaled to size 12.0pt on input line 309.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 349.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 325.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 349.
+(Font)              scaled to size 12.0pt on input line 325.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 349.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 325.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 349.
+(Font)              scaled to size 10.95pt on input line 325.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 349.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 325.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 349.
+(Font)              scaled to size 10.95pt on input line 325.
 [1
 
 {/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
@@ -887,8 +882,20 @@ inyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/home/maheshak/ana
 conda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/Tiny
 TeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/home/maheshak/anac
 onda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/TinyT
-eX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] [2]
+eX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
+Overfull \hbox (8.3719pt too wide) in paragraph at lines 334--335
+[]\T1/SourceSansPro-TLF/bold/n/12 Cognate Trans-former for Au-to-mated Phono-lo
+g-i-cal Re-con-struc-tion and
+ []
 
+
+Overfull \hbox (1.92189pt too wide) in paragraph at lines 396--397
+[]\T1/SourceSansPro-TLF/regular/n/12 (ESC 101) \T1/SourceSansPro-TLF/regular/it
+/12 Fun-da-men-tals of Com-put-ing\T1/SourceSansPro-TLF/regular/n/12 , In-struc
+-tor: Dr. Nisheeth Sri-vas-tava (Spring 2020), Dr. Piyush
+ []
+
+[2] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./VSDS_Mahesh_Akavarapu_CV.aux)
  ***********
@@ -897,13 +904,13 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15781 strings out of 476002
- 289231 string characters out of 5788363
- 1952496 words of memory out of 5000000
- 37686 multiletter control sequences out of 15000+600000
- 655079 words of font info for 59 fonts, out of 8000000 for 9000
+ 15785 strings out of 476002
+ 289315 string characters out of 5788363
+ 1949496 words of memory out of 5000000
+ 37687 multiletter control sequences out of 15000+600000
+ 655825 words of font info for 61 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,404b,708s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,404b,818s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv
 /tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome
 5Brands-Regular.pfb></home/maheshak/anaconda3/envs/new_base/lib/python3.12/site
@@ -920,10 +927,10 @@ release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb
 ></home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/
 tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPr
 o-Regular.pfb>
-Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 276154 bytes).
+Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278499 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

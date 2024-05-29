@@ -26,7 +26,7 @@ cv:
 
       - institution: Indian Institute of Technology Kanpur
         area: Computer Science, Physics (Second Major)
-        degree: BTech
+        degree: BT
         start_date: 2014-07
         end_date: 2019-05
         highlights:
@@ -89,6 +89,15 @@ cv:
       - bullet: 'Evolutionary Biology-Inspired Language Models in Historical Linguistics, University of Tübingen (Online), Apr. 2024'
       - bullet: 'Tutorial on LLMs: Finetuning and Prompting, with Arnab Bhattacharya and Shubham K. Nigam, NIT Warangal (Online), Mar. 2024'
       - bullet: 'Tutorial on Legal Named Entity Recognition, with Shubham K. Nigam, NIT Trichy (Online), Dec. 2022'
+    
+    teaching_assitance:
+      - bullet: "(CS 689) *Computational Linguistics for Indian Languages*, Instructor: Prof. Arnab Bhattacharya (Spring 2024, Fall 2022)" 
+      - bullet: "(CS 63) *Theory of Computation*, Instructor: Dr. Raghunath Tewari (Fall 2023, 2022)" 
+      - bullet: "(CS 315) *Principles of Database Systems*, Instructor: Prof. Arnab Bhattacharya (Spring 2023, Spring 2021)"
+      - bullet: "(CS 657) *Information Retrieval*, Instructor: Prof. Arnab Bhattacharya (Spring 2022)"
+      - bullet: "(CS 771) *Introduction to Machine Learning*, Instructor: Dr. Nisheeth Srivastava (Fall 2021)"
+      - bullet: "(CS 685) *Data Mining*, Instructor: Prof. Arnab Bhattacharya (Fall 2020)"
+      - bullet: "(ESC 101) *Fundamentals of Computing*, Instructor: Dr. Nisheeth Srivastava (Spring 2020), Dr. Piyush Rai (Fall 2019)"
 
     technologies:
       - label: Languages
@@ -99,7 +108,7 @@ cv:
 design:
   theme: classic
   font: Source Sans 3
-  font_size: 10pt
+  font_size: 12pt
   page_size: letterpaper
   color: '#00235A'
   disable_external_link_icons: false

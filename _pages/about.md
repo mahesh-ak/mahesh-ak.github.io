@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year PhD Student in Computer Science at Indian Institute of Technology Kanpur working in the intersection of Computational Linguitics, Historical Linguistics and Computational Biology under the supervision of Prof. Arnab Bhattacharya.
+I am a final year PhD Student in Computer Science at Indian Institute of Technology Kanpur working in the intersection of Computational Linguitics, Historical Linguistics and Bioinformatics under the supervision of Prof. Arnab Bhattacharya.
 
 During my PhD, I have developed algorithms for several Computational Historical Linguistic problems namely phonological reconstruction, cognate detection and statistical testing of genetic relationship among languages employing language models and other techiniques largely inspired by Evolutionary Biology.
 

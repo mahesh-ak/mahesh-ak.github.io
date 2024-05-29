@@ -11,7 +11,7 @@
 
 Computational Linguistics / Natural Language Processing, Historical Linguistics
 
-As part of my PhD thesis, I worked on Transformer and Graph-Attention-based architectures over the central problems in historical linguistics incorporating insights from Evolutionary Biology. Additionally, I worked on Phylogenetic testing of language families.
+As part of my PhD thesis, I worked on Axial Transformers and Graph-Attention-based architectures over the central problems in historical linguistics incorporating insights from Evolutionary Biology. Additionally, I worked on Phylogenetic testing of language families.
 
 # Education
 

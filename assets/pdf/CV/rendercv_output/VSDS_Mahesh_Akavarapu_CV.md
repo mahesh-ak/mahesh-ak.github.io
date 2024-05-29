@@ -2,7 +2,7 @@
 
 - Email: [maheshak@cse.iitk.ac.in](mailto:maheshak@cse.iitk.ac.in)
 - Location: Dept. of CSE, IITK, Kanpur, U.P., India
-- Website: [cse.iitk.ac.inusersmaheshak](https://cse.iitk.ac.in/users/maheshak)
+- Website: [mahesh-ak.github.io](https://mahesh-ak.github.io/)
 - LinkedIn: [mahesh-akavarapu](https://linkedin.com/in/mahesh-akavarapu)
 - GitHub: [mahesh-ak](https://github.com/mahesh-ak)
 

@@ -66,7 +66,7 @@ As part of my PhD thesis, I worked on Axial Transformers and Graph-Attention-bas
 # Teaching Assitance
 
 - (CS 689) *Computational Linguistics for Indian Languages*, Instructor: Prof. Arnab Bhattacharya (Spring 2024, Fall 2022)
-- (CS 63) *Theory of Computation*, Instructor: Dr. Raghunath Tewari (Fall 2023, 2022)
+- (CS 63) *Theory of Computation*, Instructor: Dr. Raghunath Tewari (Fall 2023, Fall 2022)
 - (CS 315) *Principles of Database Systems*, Instructor: Prof. Arnab Bhattacharya (Spring 2023, Spring 2021)
 - (CS 657) *Information Retrieval*, Instructor: Prof. Arnab Bhattacharya (Spring 2022)
 - (CS 771) *Introduction to Machine Learning*, Instructor: Dr. Nisheeth Srivastava (Fall 2021)

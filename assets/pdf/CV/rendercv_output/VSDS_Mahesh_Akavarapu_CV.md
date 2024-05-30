@@ -29,7 +29,7 @@ As part of my PhD thesis, I worked on Axial Transformers and Graph-Attention-bas
 # Awards / Honors
 
 - Prime Minister's Research Fellowship (2019-24): Grant of INR 200,000 per year (approx. USD 12,000 in total) from Ministry of Education, Government of India
-- Academic Excellence Award from IIT Kanpur (2015-16): Awarded to Top 10% students of the batch
+- Academic Excellence Award from IIT Kanpur (2015): Awarded to Top 10% students of the batch
 # Experience
 
 ## Indian Institute of Technology Kanpur, Research Fellow

@@ -1,13 +1,24 @@
 ---
 ---
-@article{akavarapu2024likelihood,
-  title={A Likelihood Ratio Test of Genetic Relationship among Languages},
-  author={Akavarapu, V.S.D.S.Mahesh and Bhattacharya, Arnab},
-  journal={To Appear at NAACL 2024 (Main)},
-  pdf = {https://arxiv.org/pdf/2404.00284},
-  year={2024},
-  selected={true},
-  abbr={NAACL},
+@inproceedings{akavarapu-bhattacharya-2024-likelihood,
+    title = "A Likelihood Ratio Test of Genetic Relationship among Languages",
+    author = "Akavarapu, V.S.D.S.Mahesh  and
+      Bhattacharya, Arnab",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2024.naacl-long.141",
+    pdf = "https://aclanthology.org/2024.naacl-long.141.pdf",
+    code = "https://github.com/mahesh-ak/PhyloVal",
+    selected = "true",
+    abbr = "NAACL",
+    pages = "2559--2570",
+    abstract = "Lexical resemblances among a group of languages indicate that the languages could be genetically related, i.e., they could have descended from a common ancestral language. However, such resemblances can arise by chance and, hence, need not always imply an underlying genetic relationship. Many tests of significance based on permutation of wordlists and word similarity measures appeared in the past to determine the statistical significance of such relationships. We demonstrate that although existing tests may work well for bilateral comparisons, i.e., on pairs of languages, they are either infeasible by design or are prone to yield false positives when applied to groups of languages or language families. To this end, inspired by molecular phylogenetics, we propose a likelihood ratio test to determine if given languages are related based on the proportion of invariant character sites in the aligned wordlists applied during tree inference. Further, we evaluate some language families and show that the proposed test solves the problem of false positives. Finally, we demonstrate that the test supports the existence of macro language families such as Nostratic and Macro-Mayan.",
 }
 
 @inproceedings{akavarapu-bhattacharya-2024-automated,
@@ -26,6 +37,7 @@
     video = "https://aclanthology.org/2024.eacl-long.58.mp4",
     abbr = "EACL",
     pages = "965--975",
+    code = "https://github.com/mahesh-ak/CogDetect",
     abstract = "Identification of cognates across related languages is one of the primary problems in historical linguistics. Automated cognate identification is helpful for several downstream tasks including identifying sound correspondences, proto-language reconstruction, phylogenetic classification, etc. Previous state-of-the-art methods are mostly based on distributions of phonemes computed across multilingual wordlists and make little use of the cognacy labels that define links among cognate clusters. In this paper, we present a transformer-based architecture inspired by computational biology for the task of automated cognate detection. Beyond a certain amount of supervision, this method performs better than the existing methods, and shows steady improvement with further increase in supervision proving the efficacy of utilizing the labeled information. We also demonstrate that accepting multiple sequence alignments as input and having an end-to-end architecture with link prediction head saves much computation time while simultaneously yielding superior performance.",
 }
 
@@ -47,6 +59,7 @@
     abbr = "EMNLP",
     doi = "10.18653/v1/2023.emnlp-main.423",
     pages = "6852--6862",
+    code = "https://github.com/mahesh-ak/CognateTransformer",
     abstract = "Phonological reconstruction is one of the central problems in historical linguistics where a proto-word of an ancestral language is determined from the observed cognate words of daughter languages. Computational approaches to historical linguistics attempt to automate the task by learning models on available linguistic data. Several ideas and techniques drawn from computational biology have been successfully applied in this area of computational historical linguistics. Following these lines, we adapt MSA Transformer, a protein language model, to the problem of automated phonological reconstruction. MSA Transformer trains on multiple sequence alignments as input and is, thus, apt for application on aligned cognate words. We, hence, name our model as Cognate Transformer. We also apply the model on another associated task, namely, cognate reflex prediction where a reflex word in a daughter language is predicted based on cognate words from other daughter languages. We show that our model outperforms the existing models on both the tasks, especially when it is pre-trained on masked word prediction task.",
 }
 
@@ -64,6 +77,7 @@
     publisher = "Association for Computational Linguistics",
     html = "https://aclanthology.org/2023.wsc-csdh.6",
     pdf =  "https://aclanthology.org/2023.wsc-csdh.6.pdf",
+    code = "https://github.com/mahesh-ak/WSC2023",
     pages = "89--96",
 }
 

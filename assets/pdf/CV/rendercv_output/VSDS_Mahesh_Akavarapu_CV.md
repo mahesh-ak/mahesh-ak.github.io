@@ -48,7 +48,7 @@ As part of my PhD thesis, I worked on Axial Transformers and Graph-Attention-bas
 
 ## A Likelihood Ratio Test of Genetic Relationship among Languages 
 - June 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
-- Accepted to ***NAACL 2024*** (main), Mexico City, Mexico 
+- Proc. of ***NAACL 2024***, Mexico City, Mexico 
 ## Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer 
 - Mar. 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
 - Proc. of ***EACL 2024***, St. Julian's, Malta 

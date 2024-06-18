@@ -60,7 +60,7 @@ cv:
         authors:
           - V.S.D.S.Mahesh Akavarapu
           - Arnab Bhattacharya
-        journal: Accepted to ***NAACL 2024*** (main), Mexico City, Mexico
+        journal: Proc. of ***NAACL 2024***, Mexico City, Mexico
         date: 2024-06
 
       - title: Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer 

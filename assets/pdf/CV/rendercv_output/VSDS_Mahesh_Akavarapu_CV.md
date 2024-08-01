@@ -34,15 +34,15 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 ## Indian Institute of Technology Kanpur, Research Fellow
 
-- Aug. 2019 to July 2024
+- Aug. 2019 to Aug. 2024
 - Kanpur, India
-- Under Prime Minister's Research Fellowship
+- Under Prime Minister's Research Fellowship (Advisor: Prof. Arnab Bhattacharya)
 
 ## Indian Institute of Technology Kanpur, Student Researcher, Intern
 
 - May 2018 to July 2018
 - Kanpur, India
-- High Performance Computing in CUDA (Guide: Prof. Mahendra K. Verma)
+- High Performance Computing in CUDA (Advisor: Prof. Mahendra K. Verma)
 
 # Publications
 
@@ -76,3 +76,9 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 - Languages: Python, C/C++, HTML, Shell Scripting etc.
 - Libraries: PyTorch, TensorFlow, HuggingFace, Pandas etc.
+# Personal Details
+
+**Full Name**: Akavarapu, Venkata Satya Durga Sai Mahesh
+
+**Gender**: Male \ \ \ \ \ **Age**: 27 \ \ \ \ \ **Nationality**: Indian
+

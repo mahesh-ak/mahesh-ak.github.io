@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  22 JUN 2024 18:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  1 AUG 2024 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,10 +904,10 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15785 strings out of 476002
- 289315 string characters out of 5788363
- 1948496 words of memory out of 5000000
- 37687 multiletter control sequences out of 15000+600000
+ 15787 strings out of 476002
+ 289330 string characters out of 5788363
+ 1949496 words of memory out of 5000000
+ 37688 multiletter control sequences out of 15000+600000
  655825 words of font info for 61 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,10n,79p,402b,818s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -927,10 +927,10 @@ release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb
 ></home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/
 tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPr
 o-Regular.pfb>
-Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278355 bytes).
+Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278556 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 103 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  1 AUG 2024 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  1 AUG 2024 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -927,7 +927,7 @@ release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb
 ></home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/
 tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPr
 o-Regular.pfb>
-Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278556 bytes).
+Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278555 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream

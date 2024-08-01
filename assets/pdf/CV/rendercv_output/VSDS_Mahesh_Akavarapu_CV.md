@@ -34,7 +34,7 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 ## Indian Institute of Technology Kanpur, Research Fellow
 
-- Aug. 2019 to Aug. 2024
+- Aug. 2019 to July 2024
 - Kanpur, India
 - Under Prime Minister's Research Fellowship (Advisor: Prof. Arnab Bhattacharya)
 

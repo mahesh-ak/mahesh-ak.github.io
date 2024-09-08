@@ -23,5 +23,5 @@ I am a final year PhD Student in Computer Science at Indian Institute of Technol
 
 During my PhD, I have developed algorithms for several Computational Historical Linguistic problems namely phonological reconstruction, cognate detection and statistical testing of genetic relationship among languages employing language models and other techiniques largely inspired by Evolutionary Biology. I am also currently working on Low Resource Natural Language Understanding in case of Sanskrit using LLMs. ([<u>Research Statement</u>](/assets/pdf/Research_Statement.pdf))
 
-I am currently applying for Postdoctoral positions, with the aim of starting in the fall of this year.
+I shall be joining Prof. Gerhard Jäger's project [Phylomilia](https://profgerhard.de/phylomilia/) as a Postdoctoral Researcher at University of Tübingen starting from around this November.
 

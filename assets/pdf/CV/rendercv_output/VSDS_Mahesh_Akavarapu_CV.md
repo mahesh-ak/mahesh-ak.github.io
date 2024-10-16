@@ -17,7 +17,7 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 ## Indian Institute of Technology Kanpur, PhD in Computer Science
 
-- July 2019 to present
+- July 2019 to Sept. 2024
 - GPA: 3.84/4.00 (9.6/10.0)
 - Advisor: Prof. Arnab Bhattacharya
 

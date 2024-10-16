@@ -15,6 +15,8 @@ nav_order: 6
   - *Twelfth Grade Physics* (Fall 2021)
 
 ## Tutor
+- CSJM University, Kanpur
+  - *Signals and Systems* (Summer 2024)
 - **NPTEL** online recitation classes
   - (CS 63) *Theory of Computation* (Fall 2023, 2022), Instructor: Dr. Raghunath Tewari 
 

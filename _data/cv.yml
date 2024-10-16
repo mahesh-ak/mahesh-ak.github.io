@@ -4,7 +4,7 @@
     - name: Full Name
       value: Akavarapu Venkata Satya Durga Sai Mahesh
     - name: Designation
-      value: PhD Candidate in Computer Science
+      value: PhD in Computer Science
     - name: Institute
       value: Indian Institute of Technology Kanpur
     - name:  Broad Areas of Interests
@@ -15,7 +15,7 @@
   contents:
     - title: PhD in Computer Science
       institution: Indian Institute of Technology Kanpur
-      year: 2019-2024 (est.)
+      year: 2019-2024
       description:
         - "GPA: 3.84/4.00 (9.6/10.0)"
         - "Advisor: Prof. Arnab Bhattacharya"

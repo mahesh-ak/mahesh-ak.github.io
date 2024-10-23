@@ -1,21 +1,21 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  16 OCT 2024 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  23 OCT 2024 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/maheshak/Documents/mahesh-ak.github.io/assets/pdf/CV/rendercv_output/VS
-DS_Mahesh_Akavarapu_CV.tex
+**/data/mahesh/mahesh-ak.github.io/assets/pdf/CV/rendercv_output/VSDS_Mahesh_Ak
+avarapu_CV.tex
 
-(/home/maheshak/Documents/mahesh-ak.github.io/assets/pdf/CV/rendercv_output/VSD
-S_Mahesh_Akavarapu_CV.tex
+(/data/mahesh/mahesh-ak.github.io/assets/pdf/CV/rendercv_output/VSDS_Mahesh_Aka
+varapu_CV.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/article.cls
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/size12.clo
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
@@ -30,21 +30,21 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -60,8 +60,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip50
@@ -73,12 +73,12 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthlast=\dimen152
 \titlewidthfirst=\dimen153
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen154
 \ar@mcellbox=\box52
@@ -96,22 +96,22 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@cols=\count199
 \TX@ftn=\toks21
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -122,12 +122,12 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip54
 \enit@outerparindent=\dimen161
@@ -136,61 +136,65 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count266
 \enitdp@description=\count267
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5.s
+ty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-03-14 L3 programming layer (loader) 
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.
+def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box55
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2
+e.sty
 Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.st
+y
 Package: xparse 2024-03-14 L3 Experimental document command parser
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-h
-elper.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-g
+eneric-helper.sty
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
 tawesome5
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.d
-ef)))
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/fontawesome5-m
+apping.def)))
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip55
 
 For additional information on amsmath, use the `?' option.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen162
 ))
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen163
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count269
@@ -241,67 +245,69 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys
+.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlest
+ring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count281
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count282
 )
@@ -309,20 +315,20 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@linkcounter=\count283
 \Hy@pagecounter=\count284
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count285
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -337,20 +343,20 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
 \c@Hy@tempcnt=\count286
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/url/url.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen172
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -365,8 +371,8 @@ Package hyperref Info: Link coloring ON on input line 6081.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -376,12 +382,12 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -389,12 +395,14 @@ with kernel methods
 \Fld@listcount=\count291
 \c@bookmark@seq@number=\count292
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfileche
+ck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecount
+er.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -402,14 +410,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen175
 \ESO@tempdimb=\dimen176
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count293
 \calc@Bcount=\count294
@@ -422,39 +430,39 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count295
 \calc@Cskip=\skip61
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
 \BKM@id=\count296
 ))
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
 Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (H
 MM)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
 Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count297
 ) 
 ))
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count298
 \cp@tempcnt=\count299
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/paracol/paracol.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
 \pcol@currcol=\count300
 \pcol@nextcol=\count301
@@ -482,28 +490,29 @@ Package: paracol 2018/12/31 v1.35
 \pcol@colorins=\insert252
 \pcol@everyvbox=\toks28
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/needspace/needspace.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
+)
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks29
 \inpenc@posthook=\toks30
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -538,44 +547,45 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/sourcesanspro
+.sty
 Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks31
 \XKV@tempa@toks=\toks32
 )
 \XKV@depth=\count310
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/ly1/ly1enc.def
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/ly1/ly1enc.def
 File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
 ... processing UTF-8 mapping file for font encoding LY1
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/base/ly1enc.dfu
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/base/ly1enc.dfu
 File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -706,16 +716,16 @@ File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 2.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )))
 LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on
  input line 170.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.f
-d
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/T1SourceSansP
+ro-TLF.fd
 File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/Sour
 ceSansPro-TLF.
 )
@@ -748,8 +758,8 @@ LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 170.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
 70.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/ly1/ly1ptm.fd
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 170.
@@ -800,19 +810,21 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
 nput line 179.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefr
+ee2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
 nput line 181.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefr
+ee1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
  input line 185.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
-)
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomebr
+ands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
@@ -837,9 +849,9 @@ Overfull \hbox (4.67302pt too wide) in paragraph at lines 218--218
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
 n input line 221.
 
-(/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.
-fd
+(/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/sourcesanspro/TS1SourceSans
+Pro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/So
 urceSansPro-TLF.
 )
@@ -871,18 +883,19 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.95pt on input line 325.
 [1
 
-{/home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/t
-inytex-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/mahe
-shak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-rele
-ase/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{/home/mahesh
-ak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-releas
-e/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/home/maheshak/
-anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/T
-inyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/home/maheshak/ana
-conda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/Tiny
-TeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/home/maheshak/anac
-onda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/TinyT
-eX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}]
+{/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/re
+nderer/tinytex-release/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/d
+ata/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/rende
+rer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.e
+nc}{/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv
+/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5fr
+ee2.enc}{/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/ren
+dercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/
+fa5free1.enc}{/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-package
+s/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawes
+ome5/fa5brands0.enc}{/data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-
+packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/s
+ourcesanspro/a_5ponh6.enc}]
 Overfull \hbox (8.3719pt too wide) in paragraph at lines 334--335
 []\T1/SourceSansPro-TLF/bold/n/12 Cognate Trans-former for Au-to-mated Phono-lo
 g-i-cal Re-con-struc-tion and
@@ -905,29 +918,29 @@ L3 programming layer <2024-03-14>
  ) 
 Here is how much of TeX's memory you used:
  15787 strings out of 476002
- 289330 string characters out of 5788363
- 1949496 words of memory out of 5000000
+ 290998 string characters out of 5788363
+ 1948496 words of memory out of 5000000
  37688 multiletter control sequences out of 15000+600000
  655825 words of font info for 61 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,402b,818s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv
-/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome
-5Brands-Regular.pfb></home/maheshak/anaconda3/envs/new_base/lib/python3.12/site
--packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontaw
-esome5/FontAwesome5Free-Regular.pfb></home/maheshak/anaconda3/envs/new_base/lib
-/python3.12/site-packages/rendercv/tinytex-release/TinyTeX/texmf-dist/fonts/typ
-e1/public/fontawesome5/FontAwesome5Free-Solid.pfb></home/maheshak/anaconda3/env
-s/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/TinyTeX/texmf-
-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></home/maheshak/ana
-conda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-release/Tiny
-TeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-BoldIt.pfb></home/
-maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/tinytex-
-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb
-></home/maheshak/anaconda3/envs/new_base/lib/python3.12/site-packages/rendercv/
-tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPr
-o-Regular.pfb>
-Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278505 bytes).
+ 75i,10n,79p,390b,818s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/
+renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/Fon
+tAwesome5Brands-Regular.pfb></data/mahesh/miniconda3/envs/new_base/lib/python3.
+12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/typ
+e1/public/fontawesome5/FontAwesome5Free-Regular.pfb></data/mahesh/miniconda3/en
+vs/new_base/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/Tiny
+TeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></dat
+a/mahesh/miniconda3/envs/new_base/lib/python3.12/site-packages/rendercv/rendere
+r/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSans
+Pro-Bold.pfb></data/mahesh/miniconda3/envs/new_base/lib/python3.12/site-package
+s/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/adobe/source
+sanspro/SourceSansPro-BoldIt.pfb></data/mahesh/miniconda3/envs/new_base/lib/pyt
+hon3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/font
+s/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></data/mahesh/miniconda3/envs/
+new_base/lib/python3.12/site-packages/rendercv/renderer/tinytex-release/TinyTeX
+/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
+Output written on VSDS_Mahesh_Akavarapu_CV.pdf (2 pages, 278562 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream

@@ -17,13 +17,13 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 ## Indian Institute of Technology Kanpur, PhD in Computer Science
 
-- July 2019 to Sept. 2024
+- July 2019 – Sept 2024
 - GPA: 3.84/4.00 (9.6/10.0)
 - Advisor: Prof. Arnab Bhattacharya
 
 ## Indian Institute of Technology Kanpur, BT in Computer Science, Physics (Second Major)
 
-- July 2014 to May 2019
+- July 2014 – May 2019
 - GPA: 3.72/4.00 (9.3/10.0)
 
 # Awards / Honors
@@ -34,13 +34,13 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 ## Indian Institute of Technology Kanpur, Research Fellow
 
-- Aug. 2019 to July 2024
+- Aug 2019 – July 2024
 - Kanpur, India
 - Under Prime Minister's Research Fellowship (Advisor: Prof. Arnab Bhattacharya)
 
 ## Indian Institute of Technology Kanpur, Student Researcher, Intern
 
-- May 2018 to July 2018
+- May 2018 – July 2018
 - Kanpur, India
 - High Performance Computing in CUDA (Advisor: Prof. Mahendra K. Verma)
 
@@ -50,13 +50,13 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 - June 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
 - Proc. of ***NAACL 2024***, Mexico City, Mexico 
 ## Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer 
-- Mar. 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
+- Mar 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
 - Proc. of ***EACL 2024***, St. Julian's, Malta 
 ## Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction 
-- Dec. 2023 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
+- Dec 2023 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
 - Proc. of ***EMNLP 2023***, Singapore 
 ## Creation of a Digital Rig Vedic Index (Anukramani) for Computational Linguistic Tasks 
-- Jan. 2023 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
+- Jan 2023 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
 - Proc. of ***World Sanskrit Conference 2023***, Canberra, Australia 
 # Invited Talks
 
@@ -80,5 +80,5 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 
 **Full Name**: Akavarapu, Venkata Satya Durga Sai Mahesh
 
-**Gender**: Male \ \ \ \ \ **Age**: 27 \ \ \ \ \ **Nationality**: Indian
+**Gender**: Male \ \ \ \ \ **Age**: 28 \ \ \ \ \ **Nationality**: Indian
 

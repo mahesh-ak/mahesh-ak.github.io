@@ -12,7 +12,7 @@ profile:
     <p>KD-108, CSE</p>
     <p>IIT Kanpur, Kanpur</p>
     <p>U.P., India 208016</p>
-    <p>maheshak@iitk.ac.in</p>
+    <p>maheshak@cse.iitk.ac.in</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

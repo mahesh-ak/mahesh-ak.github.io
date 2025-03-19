@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Seminar für Sprachwissenschaft</p>
     <p>R. 158, Keplerstraße 2</p>
     <p>Tübingen 72074</p>
     <p>mahesh.akavarapu@uni-tuebingen.de</p>

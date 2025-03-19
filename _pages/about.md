@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>R. 158, Keplerstraße 2</p>
     <p>Tübingen 72074</p>
-    <p>mahesh.akavarapu@uni-tuebingen.de</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

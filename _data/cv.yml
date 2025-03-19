@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Akavarapu Venkata Satya Durga Sai Mahesh
+      value: Akavarapu, Venkata Satya Durga Sai Mahesh
     - name: Designation
-      value: PhD in Computer Science
+      value: Postdoctoral Researcher
     - name: Institute
-      value: Indian Institute of Technology Kanpur
+      value: University of Tübingen
     - name:  Broad Areas of Interests
       value: Computational Linguistics / Natural Language Processing, Historical Linguistics
 
@@ -42,6 +42,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: University of Tübingen
+      year: 2025-present
+      
     - title: Research Fellow
       institution:  Indian Institute of Technology Kanpur
       year: 2019-2024

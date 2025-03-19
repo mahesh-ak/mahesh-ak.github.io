@@ -1,7 +1,7 @@
 # VSDS Mahesh Akavarapu's CV
 
-- Email: [maheshak@cse.iitk.ac.in](mailto:maheshak@cse.iitk.ac.in)
-- Location: Dept. of CSE, IITK, Kanpur, U.P., India
+- Email: [mahesh.akavarapu@uni-tuebingen.de](mailto:mahesh.akavarapu@uni-tuebingen.de)
+- Location: Seminar für Sprachwissenschaft, R. 158, Keplerstraße 2, Tübingen 72074
 - Website: [mahesh-ak.github.io](https://mahesh-ak.github.io/)
 - LinkedIn: [mahesh-akavarapu](https://linkedin.com/in/mahesh-akavarapu)
 - GitHub: [mahesh-ak](https://github.com/mahesh-ak)
@@ -11,7 +11,7 @@
 
 Computational Linguistics / Natural Language Processing, Historical Linguistics
 
-Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingual and Multimodal LLMs
+Specifically: Computational Historical Linguistics, Speech Processing, Low Resource NLP
 
 # Education
 
@@ -31,6 +31,12 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 - Prime Minister's Research Fellowship (2019-24): Grant of INR 200,000 per year (approx. USD 12,000 in total) from Ministry of Education, Government of India
 - Academic Excellence Award from IIT Kanpur (2015): Awarded to Top 10% students of the batch
 # Experience
+
+## University of Tübingen, Postdoctoral Researcher
+
+- Jan 2025 – present
+- Tübingen, Germany
+- Advisor: Prof. Gerhard Jäger
 
 ## Indian Institute of Technology Kanpur, Research Fellow
 
@@ -75,10 +81,10 @@ Specifically: Computational Historical Linguistics, Low Resource NLP, Multilingu
 # Technologies
 
 - Languages: Python, C/C++, HTML, Shell Scripting etc.
-- Libraries: PyTorch, TensorFlow, HuggingFace, Pandas etc.
+- Libraries: PyTorch, TensorFlow, LangChain, HuggingFace etc.
 # Personal Details
 
 **Full Name**: Akavarapu, Venkata Satya Durga Sai Mahesh
 
-**Gender**: Male \ \ \ \ \ **Age**: 28 \ \ \ \ \ **Nationality**: Indian
+**Gender**: Male, **Age**: 28, **Nationality**: Indian
 

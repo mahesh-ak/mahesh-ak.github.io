@@ -587,13 +587,19 @@ May 2018 – July 2018
 == Publications
 
 
-#one-col-entry(content:[
-  #strong[A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs]
+#two-col-entry(
+  left-content: [
+    #strong[A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs]
 
-  #v(-design-text-leading)
+  ],
+  right-content: [
+    July 2025
+  ],
+)
+#one-col-entry(content:[
   #v(design-highlights-top-margin);V.S.D.S.Mahesh Akavarapu, Hrishikesh Terdalkar, Pramit Bhattacharyya, Shubhangi Agarwal, Vishakha Deulgaonkar, Pralay Manna, Chaitali Dangarikar, Arnab Bhattacharya
 
-#v(design-highlights-top-margin - design-text-leading)Accepted to Findings of #strong[#emph[ACL 2025]]])
+#v(design-highlights-top-margin - design-text-leading)Findings of #strong[#emph[ACL 2025]], Vienna, Austria])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(

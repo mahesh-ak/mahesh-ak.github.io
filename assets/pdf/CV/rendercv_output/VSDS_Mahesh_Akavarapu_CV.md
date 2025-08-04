@@ -53,8 +53,8 @@ Specifically: Computational Historical Linguistics, Speech Processing, Low Resou
 # Publications
 
 ## A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs 
-- V.S.D.S.Mahesh Akavarapu, Hrishikesh Terdalkar, Pramit Bhattacharyya, Shubhangi Agarwal, Vishakha Deulgaonkar, Pralay Manna, Chaitali Dangarikar, Arnab Bhattacharya
-- Accepted to Findings of ***ACL 2025*** 
+- July 2025 - V.S.D.S.Mahesh Akavarapu, Hrishikesh Terdalkar, Pramit Bhattacharyya, Shubhangi Agarwal, Vishakha Deulgaonkar, Pralay Manna, Chaitali Dangarikar, Arnab Bhattacharya
+- Findings of ***ACL 2025***, Vienna, Austria 
 ## A Likelihood Ratio Test of Genetic Relationship among Languages 
 - June 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya
 - Proc. of ***NAACL 2024***, Mexico City, Mexico 

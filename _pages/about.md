@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>R. 158, Keplerstraße 2</p>
+    <p>R. 155, Keplerstraße 2</p>
     <p>Tübingen 72074</p>
 
 news: false  # includes a list of news items

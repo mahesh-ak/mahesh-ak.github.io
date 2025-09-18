@@ -1,6 +1,6 @@
 cv:
   name: VSDS Mahesh Akavarapu
-  location: Seminar für Sprachwissenschaft, R. 158, Keplerstraße 2, Tübingen 72074
+  location: Seminar für Sprachwissenschaft, R. 155, Keplerstraße 2, Tübingen 72074
   email: mahesh.akavarapu@uni-tuebingen.de
 #  phone: tel:+90-541-999-99-99
   website: https://mahesh-ak.github.io
@@ -271,5 +271,5 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-08-18'
+  date: '2025-09-18'
   bold_keywords: []

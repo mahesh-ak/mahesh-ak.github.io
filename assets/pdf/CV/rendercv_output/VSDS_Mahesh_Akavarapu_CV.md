@@ -1,7 +1,7 @@
 # VSDS Mahesh Akavarapu's CV
 
 - Email: [mahesh.akavarapu@uni-tuebingen.de](mailto:mahesh.akavarapu@uni-tuebingen.de)
-- Location: Seminar für Sprachwissenschaft, R. 158, Keplerstraße 2, Tübingen 72074
+- Location: Seminar für Sprachwissenschaft, R. 155, Keplerstraße 2, Tübingen 72074
 - Website: [mahesh-ak.github.io](https://mahesh-ak.github.io/)
 - LinkedIn: [mahesh-akavarapu](https://linkedin.com/in/mahesh-akavarapu)
 - GitHub: [mahesh-ak](https://github.com/mahesh-ak)

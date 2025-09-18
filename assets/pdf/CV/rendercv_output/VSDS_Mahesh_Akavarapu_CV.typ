@@ -3,7 +3,7 @@
 
 #let name = "VSDS Mahesh Akavarapu"
 #let locale-catalog-page-numbering-style = context { "VSDS Mahesh Akavarapu - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Aug 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Sept 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -451,7 +451,7 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Seminar für Sprachwissenschaft, R. 158, Keplerstraße 2, Tübingen 72074],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Seminar für Sprachwissenschaft, R. 155, Keplerstraße 2, Tübingen 72074],
   [#box(original-link("mailto:mahesh.akavarapu@uni-tuebingen.de")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)mahesh.akavarapu\@uni-tuebingen.de])],
   [#box(original-link("https://mahesh-ak.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)mahesh-ak.github.io])],
   [#box(original-link("https://linkedin.com/in/mahesh-akavarapu")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)mahesh-akavarapu])],

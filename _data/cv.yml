@@ -1,65 +1,81 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Akavarapu, Venkata Satya Durga Sai Mahesh
-    - name: Designation
-      value: Postdoctoral Researcher
-    - name: Institute
-      value: University of Tübingen
-    - name:  Broad Areas of Interests
-      value: Computational Linguistics / Natural Language Processing, Historical Linguistics
+cv:
+  name: Akavarapu, V.S.D.S. Mahesh
+  label: Postdoctoral Researcher
+  email: mahesh.akavarapu@uni-tuebingen.de
+  location: Tübingen, Germany
+  image: ""
+  summary: My interests broadly lie in Computational Linguistics, Speech Processing and Historical Linguistics
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Computer Science
-      institution: Indian Institute of Technology Kanpur
-      year: 2019-2024
-      description:
-        - "GPA: 3.84/4.00 (9.6/10.0)"
-        - "Advisor: Prof. Arnab Bhattacharya"
-    - title: BTech in Computer Science, Physics (Second Major)
-      institution: Indian Institute of Technology Kanpur 
-      year: 2014-2019
-      description:
-        - "GPA: 3.72/4.00 (9.3/10.0)"
+  social_networks:
+    - network: GitHub
+      username: mahesh-ak
+    - network: LinkedIn
+      username: mahesh-akavarapu
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2019-2024
-      items:
-        - Prime Minister's Research Fellowship
-        - Grant of INR 200,000 per year (approx. USD 12,000 in Total) 
-          from Ministry of Education, Government of India
-    - year: 2015
-      items:
-        - Academic Excellence Award from IIT Kanpur
-        - Awarded to Top 10% students of the batch
+  address:
+    street: R. 155, Keplerstraße 2
+    city: Tübingen
+    postalCode: 72074
+    countryCode: DE
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology Kanpur
+        location: Kanpur, IN
+        url: https://iitk.ac.in/
+        area: Computer Science and Engineering
+        studyType: PhD
+        start_date: 2019
+        end_date: 2024
+        score: "GPA 9.6/10"
+        highlights:
+          - Advisor: Prof. Arnab Bhattacharya
+
+      - institution: Indian Institute of Technology Kanpur
+        location: Kanpur, IN
+        area: Computer Science and Engineering, Physics
+        studyType: Bachelor of Technology
+        start_date: 2014
+        end_date: 2019
+        score: "GPA 9.3/10"
+        highlights:
+          - Double Major Degree
+
+    Experience:
+      - company: University of Tübingen
+        position: Postdoctoral Researcher
+        location: Tübingen, DE
+        start_date: 2025-01-01
+        end_date: present
+
+      - company: Indian Institute of Technology Kanpur
+        position: Research Fellow
+        location: Kanpur, IN
+        start_date: 2019-07-01
+        end_date: 2024-10-01
+        highlights:
+          - Under Prime Minister's Research Fellowship
+
+      - company: Indian Institute of Technology Kanpur
+        position: Student Researcher Intern
+        location: Kanpur, IN
+        start_date: 2018-05-01
+        end_date: 2018-07-01
+        highlights:
+          - High Performance Computing in CUDA, advisor: Prof. Mahendra K. Verma
 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Researcher
-      institution: University of Tübingen
-      year: 2025-present
-      
-    - title: Research Fellow
-      institution:  Indian Institute of Technology Kanpur
-      year: 2019-2024
-      description:
-        - Under Prime Minister's Research Fellowship
+    Awards:
+      - title: Prime Minister's Research Fellowship
+        authors:
+          - "Ministry of Education, Government of India"
+        date: 2019
+        awarder: Ministry of Education, Government of India
+        summary: Grant of INR 10,00,000 over 5 years
 
-    - title: Student Researcher, Intern
-      institution: Indian Institute of Technology Kanpur 
-      year: Summer 2018
-      description:
-        - "High Performance Computing in CUDA (Guide: Prof. Mahendra K. Verma)"
-
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Studying ancient works of Sanskrit, Old Telugu, and Old Tamil.
+      - title: Academic Excellence Award
+        authors:
+          - "IIT Kanpur"
+        date: 2015
+        awarder: IIT Kanpur
+        summary: Awarded to Top 10% students of the batch

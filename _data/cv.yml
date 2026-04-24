@@ -22,21 +22,20 @@ cv:
     Education:
       - institution: Indian Institute of Technology Kanpur
         location: Kanpur, IN
-        url: https://iitk.ac.in/
         area: Computer Science and Engineering
         studyType: PhD
-        start_date: 2019
-        end_date: 2024
+        start_date: jul 2019
+        end_date: sept 2024
         score: "GPA 9.6/10"
         highlights:
-          - Advisor: Prof. Arnab Bhattacharya
+          - Advised by Prof. Arnab Bhattacharya
 
       - institution: Indian Institute of Technology Kanpur
         location: Kanpur, IN
         area: Computer Science and Engineering, Physics
         studyType: Bachelor of Technology
-        start_date: 2014
-        end_date: 2019
+        start_date: jul 2014
+        end_date: may 2019
         score: "GPA 9.3/10"
         highlights:
           - Double Major Degree
@@ -45,24 +44,24 @@ cv:
       - company: University of Tübingen
         position: Postdoctoral Researcher
         location: Tübingen, DE
-        start_date: 2025-01-01
+        start_date: jan 2025
         end_date: present
 
       - company: Indian Institute of Technology Kanpur
         position: Research Fellow
         location: Kanpur, IN
-        start_date: 2019-07-01
-        end_date: 2024-10-01
+        start_date: aug 2019
+        end_date: jul 2024
         highlights:
           - Under Prime Minister's Research Fellowship
 
       - company: Indian Institute of Technology Kanpur
         position: Student Researcher Intern
         location: Kanpur, IN
-        start_date: 2018-05-01
-        end_date: 2018-07-01
+        start_date: may 2018
+        end_date: jul 2018 
         highlights:
-          - High Performance Computing in CUDA, advisor: Prof. Mahendra K. Verma
+          - High Performance Computing in CUDA, advised by Prof. Mahendra K. Verma
 
 
     Awards:
@@ -71,7 +70,7 @@ cv:
           - "Ministry of Education, Government of India"
         date: 2019
         awarder: Ministry of Education, Government of India
-        summary: Grant of INR 10,00,000 over 5 years
+        summary: Grant of INR 1 000 000 over 5 years
 
       - title: Academic Excellence Award
         authors:

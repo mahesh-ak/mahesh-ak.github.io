@@ -89,5 +89,5 @@ Specifically: Computational Historical Linguistics, Speech Processing, Low Resou
 
 **Full Name**: Akavarapu, Venkata Satya Durga Sai Mahesh
 
-**Gender**: Male, **Age**: 28, **Nationality**: Indian
+**Gender**: Male, **Age**: 29, **Nationality**: Indian
 

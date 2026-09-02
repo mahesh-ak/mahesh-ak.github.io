@@ -1,12 +1,52 @@
 ---
 ---
-@article{akavarapu-etal-2026-hard,
-  title   = "Hard to Be Heard: Phoneme-Level ASR Analysis of Phonologically Complex, Low-Resource Endangered Languages",
-  author  = "Akavarapu, V.S.D.S.Mahesh and Daniel, Michael and J{\"a}ger, Gerhard",
-  year    = "2026",
-  journal = "Accepted to ACL 2026 (Findings)",
-  arxiv = "2604.18204",
-  selected = "true",
+
+@article{akavarapu2026phoneme,
+      title={Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation}, 
+      author={V.S.D.S.Mahesh Akavarapu and Michael Daniel and Gerhard Jäger},
+      year={2026},
+      journal={Accepted to EMNLP (Findings)},
+      arxiv={2608.28508},
+      code={https://github.com/mahesh-ak/forced-aligner-metrics},
+      selected="true",
+}
+
+@article{10.1162/COLI.a.650,
+    author = {Akavarapu, V.S.D.S.Mahesh and Dharurkar, Chinmay and Dellert, Johannes and Bhattacharya, Arnab and Jäger, Gerhard},
+    title = {Using Large Language Models in Formalizing Classical Linguistic Descriptions: A Case Study in Middle Indo-Aryan Sound Change},
+    journal = {Computational Linguistics},
+    pages = {1-31},
+    year = {2026},
+    month = aug,
+    abstract = {We present a systematic evaluation of Large Language Models (LLMs) in translating classical descriptions of phonological and morphophonological change from Old Indo-Aryan (Sanskrit) to Middle Indo-Aryan (MIA) into the standard notation of modern historical linguistics. Drawing on Vararuci’s Prākṛta Prakāśa (c. 4th century CE) and English translation of Bhāamaha’s commentary (c. 6th century CE), we construct a dataset of 470 phonological and morphophonological rules extracted from these sources using LLMs followed by manual curation. Out of these rules, we compile a benchmark of 216 sound-change rules with example reflexes. Our pipeline integrates Optical Character Recognition (OCR) of non-digitized historical texts, manual gold-standard curation, and LLM-based translation of rule descriptions into contemporary phonological rule notation. Evaluation across several recent LLMs shows accuracies up to 86\% on this challenging formalization task. Models incorporating explicit reasoning mechanisms consistently outperform non-reasoning variants, underscoring the importance of reasoning in linguistic formalization. Error analyses reveal systematic weaknesses in modeling complex conditioning environments. We further show that the extracted sound laws generalize well across a broader range of MIA languages. Overall, this work illustrates how contemporary LLMs can engage with millennia-old linguistic scholarship by systematically translating and structuring classical rule descriptions into modern formal representations.},
+    html = {https://doi.org/10.1162/COLI.a.650},
+    pdf = {https://direct.mit.edu/coli/article-pdf/doi/10.1162/COLI.a.650/2620978/coli.a.650.pdf},
+    code = "https://github.com/mahesh-ak/Prakrt_Sound_Laws",
+    abbr = "CL",
+    selected = "true",
+}
+
+@inproceedings{akavarapu-etal-2026-hard,
+    title = "Hard to Be Heard: Phoneme-Level {ASR} Analysis of Phonologically Complex, Low-Resource Endangered Languages",
+    author = {Akavarapu, V.S.D.S.Mahesh  and
+      Daniel, Michael  and
+      J{\"a}ger, Gerhard},
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    html = "https://aclanthology.org/2026.findings-acl.147/",
+    pdf = "https://aclanthology.org/2026.findings-acl.147.pdf",
+    video = "https://underline.io/events/524/sessions/23049/lecture/151554-hard-to-be-heard-phoneme-level-asr-analysis-of-phonologically-complex-low-resource-endangered-languages",
+    code = "https://github.com/mahesh-ak/north_caucasian_asr",
+    pages = "3014--3028",
+    abbr = "ACL",
+    abstract = "We present a phoneme-level analysis of automatic speech recognition (ASR) for two low-resourced and phonologically complex East Caucasian languages, Archi and Rutul, based on curated and standardized speech{--}transcript resources totaling approximately 50 minutes and 1 hour 20 minutes of audio, respectively. Existing recordings and transcriptions are consolidated and processed into a form suitable for ASR training and evaluation. We evaluate several state-of-the-art audio and audio{--}language models, including wav2vec2, Whisper, and Qwen2-Audio. For wav2vec2, we introduce a language-specific phoneme vocabulary with heuristic output-layer initialization, which yields consistent improvements and achieves performance comparable to or exceeding Whisper in these extremely low-resource settings. Beyond standard word and character error rates, we conduct a detailed phoneme-level error analysis. We find that phoneme recognition accuracy strongly correlates with training frequency, exhibiting a characteristic sigmoid-shaped learning curve. For Archi, this relationship partially breaks for Whisper, pointing to model-specific generalization effects beyond what is predicted by training frequency. Overall, our results indicate that many errors attributed to phonological complexity are better explained by data scarcity. These findings demonstrate the value of phoneme-level evaluation for understanding ASR behavior in low-resource, typologically complex languages.",
 }
 
 @inproceedings{akavarapu-etal-2025-case,

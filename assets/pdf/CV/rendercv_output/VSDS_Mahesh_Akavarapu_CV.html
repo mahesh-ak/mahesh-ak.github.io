@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>
-        VSDS Mahesh Akavarapu's CV
+        
     </title>
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css"
@@ -39,101 +39,148 @@
 
 <body>
     <article class="markdown-body">
-        <h1>VSDS Mahesh Akavarapu's CV</h1>
-        <ul>
-        <li>Email: <a href="mailto:mahesh.akavarapu@uni-tuebingen.de">mahesh.akavarapu@uni-tuebingen.de</a></li>
-        <li>Location: Seminar für Sprachwissenschaft, R. 155, Keplerstraße 2, Tübingen 72074</li>
-        <li>Website: <a href="https://mahesh-ak.github.io/">mahesh-ak.github.io</a></li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/mahesh-akavarapu">mahesh-akavarapu</a></li>
-        <li>GitHub: <a href="https://github.com/mahesh-ak">mahesh-ak</a></li>
-        </ul>
-        <h1>Research Interests</h1>
+        <h1>&lt;<cv.name>&gt;'s CV</h1>
+        <p>((<em> if cv.phone </em>))
+        - Phone: &lt;<cv.phone|replace("tel:", "")|replace("-"," ")>&gt;
+        ((<em> endif </em>))
+        ((<em> if cv.email </em>))
+        - Email: <a href="mailto:&lt;&lt;cv.email&gt;&gt;">&lt;<cv.email>&gt;</a>
+        ((<em> endif </em>))
+        ((<em> if cv.location </em>))
+        - Location: &lt;<cv.location>&gt;
+        ((<em> endif </em>))
+        ((<em> if cv.website </em>))
+        - Website: <a href="&lt;&lt;cv.website&gt;&gt;">&lt;<cv.website|replace("https://","")|replace("/","")>&gt;</a>
+        ((<em> endif </em>))
+        ((<em> if cv.social_networks </em>))
+            ((<em> for network in cv.social_networks </em>))
+        - &lt;<network.network>&gt;: <a href="&lt;&lt;network.url&gt;&gt;">&lt;<network.username>&gt;</a>
+            ((<em> endfor </em>))
+        ((<em> endif </em>))</p>
+        <h1>&lt;<section_title>&gt;</h1>
         <p>Computational Linguistics / Natural Language Processing, Historical Linguistics</p>
         <p>Specifically: Computational Historical Linguistics, Speech Processing, Low Resource NLP</p>
-        <h1>Education</h1>
-        <h2>Indian Institute of Technology Kanpur, PhD in Computer Science</h2>
+        <h1>&lt;<section_title>&gt;</h1>
+        <h2><strong>Indian Institute of Technology Kanpur</strong>, Computer Science</h2>
+        <p><strong>PhD</strong></p>
+        <p>July 2019 – Sept 2024</p>
         <ul>
-        <li>July 2019 – Sept 2024</li>
-        <li>GPA: 3.84/4.00 (9.6/10.0)</li>
-        <li>Advisor: Prof. Arnab Bhattacharya</li>
+        <li>
+        <p>GPA: 3.84/4.00 (9.6/10.0)</p>
+        </li>
+        <li>
+        <p>Advisor: Prof. Arnab Bhattacharya</p>
+        </li>
         </ul>
-        <h2>Indian Institute of Technology Kanpur, BT in Computer Science, Physics (Second Major)</h2>
+        <h2><strong>Indian Institute of Technology Kanpur</strong>, Computer Science, Physics (Second Major)</h2>
+        <p><strong>BT</strong></p>
+        <p>July 2014 – May 2019</p>
         <ul>
-        <li>July 2014 – May 2019</li>
         <li>GPA: 3.72/4.00 (9.3/10.0)</li>
         </ul>
-        <h1>Awards / Honors</h1>
+        <h1>&lt;<section_title>&gt;</h1>
+        <p><strong>Prime Minister's Research Fellowship (2019-24):</strong> Grant of INR 200,000 per year (approx. USD 12,000 in total) from Ministry of Education, Government of India</p>
+        <p><strong>Academic Excellence Award from IIT Kanpur (2015):</strong> Awarded to Top 10% students of the batch</p>
+        <h1>&lt;<section_title>&gt;</h1>
+        <h2><strong>University of Tübingen</strong>, Postdoctoral Researcher</h2>
+        <p>Tübingen, Germany</p>
+        <p>Jan 2025 – present</p>
+        <p>1 year 9 months</p>
         <ul>
-        <li>Prime Minister's Research Fellowship (2019-24): Grant of INR 200,000 per year (approx. USD 12,000 in total) from Ministry of Education, Government of India</li>
-        <li>Academic Excellence Award from IIT Kanpur (2015): Awarded to Top 10% students of the batch</li>
-        </ul>
-        <h1>Experience</h1>
-        <h2>University of Tübingen, Postdoctoral Researcher</h2>
-        <ul>
-        <li>Jan 2025 – present</li>
-        <li>Tübingen, Germany</li>
         <li>Advisor: Prof. Gerhard Jäger</li>
         </ul>
-        <h2>Indian Institute of Technology Kanpur, Research Fellow</h2>
+        <h2><strong>Indian Institute of Technology Kanpur</strong>, Research Fellow</h2>
+        <p>Kanpur, India</p>
+        <p>Aug 2019 – July 2024</p>
+        <p>5 years</p>
         <ul>
-        <li>Aug 2019 – July 2024</li>
-        <li>Kanpur, India</li>
         <li>Under Prime Minister's Research Fellowship (Advisor: Prof. Arnab Bhattacharya)</li>
         </ul>
-        <h2>Indian Institute of Technology Kanpur, Student Researcher, Intern</h2>
+        <h2><strong>Indian Institute of Technology Kanpur</strong>, Student Researcher, Intern</h2>
+        <p>Kanpur, India</p>
+        <p>May 2018 – July 2018</p>
+        <p>3 months</p>
         <ul>
-        <li>May 2018 – July 2018</li>
-        <li>Kanpur, India</li>
         <li>High Performance Computing in CUDA (Advisor: Prof. Mahendra K. Verma)</li>
         </ul>
-        <h1>Publications</h1>
-        <h2>A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs</h2>
+        <h1>&lt;<section_title>&gt;</h1>
+        <h2><strong>Hard to Be Heard: Phoneme-Level ASR Analysis of Phonologically Complex, Low-Resource Endangered Languages</strong></h2>
+        <p>July 2026</p>
+        <p>V.S.D.S.Mahesh Akavarapu, Michael Daniel, Gerhard Jäger</p>
+        <p>(Findings of <strong><em>ACL 2026</em></strong>, San Diego, CA-US)</p>
+        <h2><strong>A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs</strong></h2>
+        <p>July 2025</p>
+        <p>V.S.D.S.Mahesh Akavarapu, Hrishikesh Terdalkar, Pramit Bhattacharyya, Shubhangi Agarwal, Vishakha Deulgaonkar, Pralay Manna, Chaitali Dangarikar, Arnab Bhattacharya</p>
+        <p>(Findings of <strong><em>ACL 2025</em></strong>, Vienna, Austria)</p>
+        <h2><strong>A Likelihood Ratio Test of Genetic Relationship among Languages</strong></h2>
+        <p>June 2024</p>
+        <p>V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</p>
+        <p>(Proc. of <strong><em>NAACL 2024</em></strong>, Mexico City, Mexico)</p>
+        <h2><strong>Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer</strong></h2>
+        <p>Mar 2024</p>
+        <p>V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</p>
+        <p>(Proc. of <strong><em>EACL 2024</em></strong>, St. Julian's, Malta)</p>
+        <h2><strong>Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction</strong></h2>
+        <p>Dec 2023</p>
+        <p>V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</p>
+        <p>(Proc. of <strong><em>EMNLP 2023</em></strong>, Singapore)</p>
+        <h2><strong>Creation of a Digital Rig Vedic Index (Anukramani) for Computational Linguistic Tasks</strong></h2>
+        <p>Jan 2023</p>
+        <p>V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</p>
+        <p>(Proc. of <strong><em>World Sanskrit Conference 2023</em></strong>, Canberra, Australia)</p>
+        <h1>&lt;<section_title>&gt;</h1>
         <ul>
-        <li>July 2025 - V.S.D.S.Mahesh Akavarapu, Hrishikesh Terdalkar, Pramit Bhattacharyya, Shubhangi Agarwal, Vishakha Deulgaonkar, Pralay Manna, Chaitali Dangarikar, Arnab Bhattacharya</li>
-        <li>Findings of <strong><em>ACL 2025</em></strong>, Vienna, Austria </li>
+        <li>
+        <p>Evolutionary Biology-Inspired Language Models in Historical Linguistics, University of Tübingen (Online), Apr. 2024</p>
+        </li>
+        <li>
+        <p>Tutorial on LLMs: Finetuning and Prompting, with Arnab Bhattacharya and Shubham K. Nigam, NIT Warangal (Online), Mar. 2024</p>
+        </li>
+        <li>
+        <p>Tutorial on Legal Named Entity Recognition, with Shubham K. Nigam, NIT Trichy (Online), Dec. 2022</p>
+        </li>
         </ul>
-        <h2>A Likelihood Ratio Test of Genetic Relationship among Languages</h2>
+        <h1>&lt;<section_title>&gt;</h1>
         <ul>
-        <li>June 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</li>
-        <li>Proc. of <strong><em>NAACL 2024</em></strong>, Mexico City, Mexico </li>
+        <li><em>Automatic Speech Processing</em>, Uni. Tübingen, (Summer 2026)</li>
         </ul>
-        <h2>Automated Cognate Detection as a Supervised Link Prediction Task with Cognate Transformer</h2>
+        <h1>&lt;<section_title>&gt;</h1>
         <ul>
-        <li>Mar 2024 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</li>
-        <li>Proc. of <strong><em>EACL 2024</em></strong>, St. Julian's, Malta </li>
+        <li>
+        <p><em>Signals and Systems</em>, CSJM University, Kanpur (Summer 2024)</p>
+        </li>
+        <li>
+        <p>(CS 63) <em>Theory of Computation</em>, NPTEL, Online (Fall 2023, Fall 2022)</p>
+        </li>
+        <li>
+        <p><em>Introduction to Machine Learning with Python</em>, CSJM University, Kanpur (Fall 2022)</p>
+        </li>
         </ul>
-        <h2>Cognate Transformer for Automated Phonological Reconstruction and Cognate Reflex Prediction</h2>
+        <h1>&lt;<section_title>&gt;</h1>
         <ul>
-        <li>Dec 2023 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</li>
-        <li>Proc. of <strong><em>EMNLP 2023</em></strong>, Singapore </li>
+        <li>
+        <p>(CS 689) <em>Computational Linguistics for Indian Languages</em>, IIT Kanpur (Spring 2024, Fall 2022)</p>
+        </li>
+        <li>
+        <p>(CS 315) <em>Principles of Database Systems</em>, IIT Kanpur (Spring 2023, Spring 2021)</p>
+        </li>
+        <li>
+        <p>(CS 657) <em>Information Retrieval</em>, IIT Kanpur (Spring 2022)</p>
+        </li>
+        <li>
+        <p>(CS 771) <em>Introduction to Machine Learning</em>, IIT Kanpur (Fall 2021)</p>
+        </li>
+        <li>
+        <p>(CS 685) <em>Data Mining</em>, IIT Kanpur (Fall 2020)</p>
+        </li>
+        <li>
+        <p>(ESC 101) <em>Fundamentals of Computing</em>, IIT Kanpur (Spring 2020, Fall 2019)</p>
+        </li>
         </ul>
-        <h2>Creation of a Digital Rig Vedic Index (Anukramani) for Computational Linguistic Tasks</h2>
-        <ul>
-        <li>Jan 2023 - V.S.D.S.Mahesh Akavarapu, Arnab Bhattacharya</li>
-        <li>Proc. of <strong><em>World Sanskrit Conference 2023</em></strong>, Canberra, Australia </li>
-        </ul>
-        <h1>Invited Talks</h1>
-        <ul>
-        <li>Evolutionary Biology-Inspired Language Models in Historical Linguistics, University of Tübingen (Online), Apr. 2024</li>
-        <li>Tutorial on LLMs: Finetuning and Prompting, with Arnab Bhattacharya and Shubham K. Nigam, NIT Warangal (Online), Mar. 2024</li>
-        <li>Tutorial on Legal Named Entity Recognition, with Shubham K. Nigam, NIT Trichy (Online), Dec. 2022</li>
-        </ul>
-        <h1>Teaching Assitance</h1>
-        <ul>
-        <li>(CS 689) <em>Computational Linguistics for Indian Languages</em>, Instructor: Prof. Arnab Bhattacharya (Spring 2024, Fall 2022)</li>
-        <li>(CS 63) <em>Theory of Computation</em>, Instructor: Dr. Raghunath Tewari (Fall 2023, Fall 2022)</li>
-        <li>(CS 315) <em>Principles of Database Systems</em>, Instructor: Prof. Arnab Bhattacharya (Spring 2023, Spring 2021)</li>
-        <li>(CS 657) <em>Information Retrieval</em>, Instructor: Prof. Arnab Bhattacharya (Spring 2022)</li>
-        <li>(CS 771) <em>Introduction to Machine Learning</em>, Instructor: Dr. Nisheeth Srivastava (Fall 2021)</li>
-        <li>(CS 685) <em>Data Mining</em>, Instructor: Prof. Arnab Bhattacharya (Fall 2020)</li>
-        <li>(ESC 101) <em>Fundamentals of Computing</em>, Instructor: Dr. Nisheeth Srivastava (Spring 2020), Dr. Piyush Rai (Fall 2019)</li>
-        </ul>
-        <h1>Technologies</h1>
-        <ul>
-        <li>Languages: Python, C/C++, HTML, Shell Scripting etc.</li>
-        <li>Libraries: PyTorch, TensorFlow, LangChain, HuggingFace etc.</li>
-        </ul>
-        <h1>Personal Details</h1>
+        <h1>&lt;<section_title>&gt;</h1>
+        <p><strong>Languages:</strong> Python, C/C++, HTML, Shell Scripting etc.</p>
+        <p><strong>Libraries:</strong> PyTorch, TensorFlow, LangChain, HuggingFace etc.</p>
+        <h1>&lt;<section_title>&gt;</h1>
         <p><strong>Full Name</strong>: Akavarapu, Venkata Satya Durga Sai Mahesh</p>
         <p><strong>Gender</strong>: Male, <strong>Age</strong>: 29, <strong>Nationality</strong>: Indian</p>
     </article>

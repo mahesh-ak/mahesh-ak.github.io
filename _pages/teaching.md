@@ -11,11 +11,9 @@ nav_order: 6
 - *Automatic Speech Processing*, Uni. Tübingen (Summer 2026)
 
 ## Tutoring
-- CSJM University, Kanpur
-  - *Signals and Systems* (Summer 2024)
-  - *Introduction to Machine Learning with Python* (Fall 2022)
-- NPTEL
-  - (CS 63) *Theory of Computation* (Fall 2023, 2022)
+- *Signals and Systems*, CSJM University (Summer 2024)
+- (CS 63) *Theory of Computation*, NPTEL (Fall 2023, 2022)
+- *Introduction to Machine Learning with Python*, CSJM University (Fall 2022)
 
 ## Teaching Assistance
 - (CS 689) *Computational Linguistics for Indian Languages*, IIT Kanpur (Spring 2024, Fall 2022)
